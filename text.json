@@ -1,0 +1,59 @@
+{
+  "brand": "PeaceKeeper",
+  "name": "Barney Fife",
+  "jobtitle": "Deputy Sheriff",
+  "greeting": "Hey",
+  "whoami": "I keep citizens safe and the ruffians out!",
+  "welcome": "Welcome to Mayberry",
+  "phone": "111-867-5309",
+  "email": "ursafe@byui.edu",
+  "facebook": "https://www.facebook.com/mayberry",
+  "twitter": "https://twitter.com/bfife",
+  "linkedin": "https://www.linkedin.com/in/barneyfife",
+  "instagram": "https://www.youtube.com/playlist?app=desktop&list=PL0FHxKU3tErvc9N1NjNUAR7KLuzqKO4E1",
+
+  "aboutme1": "I live in Mayberry, just down the road a piece.",
+  "aboutme2": "I'm a deadeye with my Colt .38 revolver.",  
+
+  "title1": "Man in charge!",
+  "workhistory1": "I ran the PX library on Staten Island",
+
+  "title2": "Skills",
+  "skills": [
+      "Shooting",
+      "Yelling",
+      "Driving",
+      "Catching bad guys",
+      "Investigating",
+      "Interrogating",
+      "Filing",
+      "Running fast",
+      "Keeping the peace"
+  ],
+
+  "title3": "Hobbies & Interests",
+  "hobbies": [
+    "Fishing",
+    "Hiking",
+    "Eating",
+    "Napping",
+    "Driving my car",
+    "Reading",
+    "Writing and singing songs"
+  ],
+
+  "projects": [
+    ["https://www.poemofquotes.com/quotes/film-tv/the-andy-griffith-show-quotes",
+     "../images/project1image.jpg",
+     "Fishing 1",
+     "Fishing pole"],
+
+    ["https://www.biography.com/news/the-andy-griffith-show-facts",
+     "../images/project2image.jpg",
+     "Fishing 2",
+     "Boat"]
+
+
+    
+  ]
+}
